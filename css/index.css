@@ -1,4 +1,6 @@
-.backimage{
+.main1{
+	background-color:#B0DADF;
+}.backimage{
 	height: 120px;
 	width: 1500px;
 }
@@ -34,6 +36,101 @@
 	font-size:3em;
 	position: absolute;
 }
+
 main{
-	background-color:#B0DADF  ;
+	position: absolute;
+	top: 125px;
+	width: 1500px;
+}
+footer{
+	background-color:#08526B;
+	position: absolute;
+	top: 1500px;
+	width: 1500px;
+}
+.study{
+	float: right;
+	width: 750px;
+	height: 395px;
+}
+.overview{
+	color:white;
+	font-family: Arial;
+	font-size: 25px;
+	padding: 0.3em 5px .2em 5px;
+}
+.square{
+	background-color: #08526B;
+	height: 42px;
+	width: 120px;
+}
+.intro{
+	font-family: Arial;
+	font-size: 18px;
+}
+.examples{
+	color: white;
+	font-family: Arial;
+	font-size:25px;
+	padding: 0.3em 0px 2em 5px;
+}
+.square1{
+	background-color: #08526B;
+	height: 42px;
+	width: 120px;
+}
+.intro2{
+	font-family: Arial;
+	font-size: 18px;
+	padding: 1em 0px 0em 12px;
+}
+.books{
+	position: absolute;
+	top: 395px;
+	float: leftt;
+	width: 750px;
+	height: 395px;
+}
+.part2{
+	padding-top: 6px;
+	padding-left:793px;
+}
+.overview2{
+	color:white;
+	font-family: Arial;
+	font-size: 25px;
+	padding: 0.3em 5px .2em 5px;
+}
+.square2{
+	
+	left: 700px;
+	padding: 0em 6px .2em 5px;
+	background-color: #08526B;
+	height: 42px;
+	width: 180px;
+}
+.intro3{
+	font-family: Arial;
+	font-size: 18px;
+	padding: 0em 0px 0em 1px;
+}
+.overview3{
+	color:white;
+	font-family: Arial;
+	font-size: 25px;
+	padding: 0.3em 5px .2em 5px;
+}
+.square3{
+	left: 700px;
+	padding: 0em 0px 0.2em 12px;
+	background-color: #08526B;
+	height: 42px;
+	width: 180px;
+}
+.link{
+	position: absolute;
+	margin-top: 18px;
+	font-family: Arial;
+	font-size: 18px;
+	padding: 0em 0px 0em 1px;
 }
